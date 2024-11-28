@@ -8,7 +8,7 @@ from pybricks.robotics import DriveBase
 from pybricks.media.ev3dev import SoundFile, ImageFile
 import threading
 import time
-
+# vlozeni do gitu
 
 
 # Create your objects here.
